@@ -114,7 +114,7 @@ function App() {
 
           <div className="photo-placeholder hero-photo">
 
-            <img src="${import.meta.env.BASE_URL}photo1.jpg" alt="Portrait de Halima" />
+            <img   src={`${import.meta.env.BASE_URL}photo1.jpg`} alt="Portrait de Halima" />
 
           </div>
         </section>
