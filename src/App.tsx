@@ -113,7 +113,7 @@ function App() {
           </div>
 
           <div className="photo-placeholder hero-photo">
-            <img src="\photo1.jpg" alt="Portrait de Halima" />
+            <img src=".\photo1.jpg" alt="Portrait de Halima" />
           </div>
         </section>
 
