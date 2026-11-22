@@ -139,7 +139,7 @@ function App() {
 
           <div className="about-body">
             <div className="photo-placeholder about-photo">
-              <img src="${import.meta.env.BASE_URL}photo2.jpg" alt="Halima" />
+              <img src={`${import.meta.env.BASE_URL}photo2.jpg`} alt="Halima" />
             </div>
 
             <div className="about-intro">
