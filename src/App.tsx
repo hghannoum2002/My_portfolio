@@ -113,7 +113,11 @@ function App() {
           </div>
 
           <div className="photo-placeholder hero-photo">
+<<<<<<< HEAD
             <img src="${import.meta.env.BASE_URL}photo1.jpg" alt="Portrait de Halima" />
+=======
+            {/* <img src="./photo1.jpg" alt="Portrait de Halima" /> */}
+>>>>>>> d909226eee59c4056b74543cf1098896b1456273
           </div>
         </section>
 
@@ -137,7 +141,11 @@ function App() {
 
           <div className="about-body">
             <div className="photo-placeholder about-photo">
+<<<<<<< HEAD
               <img src="${import.meta.env.BASE_URL}photo2.jpg" alt="Halima" />
+=======
+              <img src="src/photo2.jpg" alt="Halima" />
+>>>>>>> d909226eee59c4056b74543cf1098896b1456273
             </div>
 
             <div className="about-intro">
