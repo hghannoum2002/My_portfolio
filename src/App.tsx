@@ -137,7 +137,7 @@ function App() {
 
           <div className="about-body">
             <div className="photo-placeholder about-photo">
-              <img src="src\photo2.jpg" alt="Halima" />
+              <img src="src/photo2.jpg" alt="Halima" />
             </div>
 
             <div className="about-intro">
