@@ -396,7 +396,6 @@ Passionnée par le développement et l'innovation, j'aime concevoir des applicat
                     <h3>{group.title}</h3>
                   </div>
 
-                  <p>{group.detail}</p>
 
                   <div className="chips">
                     {group.skills.map((skill) => (
